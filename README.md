@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Full stack Development.
-- 🌱 I’m currently learning React.JS.
-- 💬 Ask me about Python, Django.
+- 🔭 I’m currently working on Software/Python Developer in Ericsson.
+- 🌱 I’m currently learning CI/CD, Kubernetes.
+- 💬 Ask me about Python, SQL, Django, Elasticsearch.
 - ⚡ Fun fact: I love listening music!
