@@ -6,6 +6,6 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working as Software/Python Developer in Ericsson.
-- 🌱 I’m currently learning CI/CD, Kubernetes.
-- 💬 Ask me about Python, SQL, Django, Elasticsearch.
+- 🌱 I’m currently learning CI/CD, Docker & Kubernetes.
+- 💬 Ask me about Python, SQL, Django, Flask, Elasticsearch.
 - ⚡ Fun fact: I love listening music!
