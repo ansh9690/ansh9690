@@ -8,4 +8,4 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working as Software/Python Developer in Ericsson.
 - 🌱 I’m currently learning CI/CD, Docker & Kubernetes.
 - 💬 Ask me about Python, SQL, Django, Flask, Elasticsearch.
-- ⚡ Fun fact: I love listening music!
+- ⚡ Fun fact: I love listening music and travel!
